@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8547'
     url: http://www.gutenberg.org/2009/agents/8547
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25163#At-Good-Old-Siwash
 gutenberg_issued: '2008-04-25'
 gutenberg_type: Text
 identifiers:
