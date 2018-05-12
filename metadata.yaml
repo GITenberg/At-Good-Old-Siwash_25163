@@ -1,0 +1,27 @@
+_repo: At-Good-Old-Siwash_25163
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25163-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Fitch, George
+    birthdate: 1877
+    deathdate: 1915
+    gutenberg_agent_id: '8547'
+    url: http://www.gutenberg.org/2009/agents/8547
+description: ''
+gutenberg_issued: '2008-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25163'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- Fiction'
+- !lcsh 'College stories'
+title: At Good Old Siwash
+url: http://www.gutenberg.org/ebooks/25163
